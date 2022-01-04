@@ -1,0 +1,204 @@
+﻿++Solução 'crudmvc' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:crudmvc.sln
+++crudmvc
+i:{00000000-0000-0000-0000-000000000000}:crudmvc
+++Connected Services 
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>205
+++Dependências
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>204
+++Analisadores
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:analisadores
+++Estruturas
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:estruturas
+++Pacotes
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:pacotes
+++Microsoft.EntityFrameworkCore (5.0.13)
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>217
+++Microsoft.EntityFrameworkCore.Design (5.0.13)
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>219
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.13)
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>218
+++Microsoft.EntityFrameworkCore.Tools (5.0.13)
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>220
+++Properties
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\properties\
+++wwwroot
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\
+++Controllers
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\controllers\
+++Data
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\data\
+++Contexto.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\data\contexto.cs
+++Enum
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\enum\
+++Situacao.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\enum\situacao.cs
+++Models
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\models\
+++Cliente.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\models\cliente.cs
+++ErrorViewModel.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\models\errorviewmodel.cs
+++Views
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\
+++appsettings.json
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\appsettings.json
+++Program.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\program.cs
+++Startup.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\startup.cs
+++Nenhuma dependência de serviço descoberta
+++Microsoft.AspNetCore.Analyzers
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\microsoft.netcore.app
+++launchSettings.json
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\properties\launchsettings.json
+++css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\css\
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\js\
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\
+++favicon.ico
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\favicon.ico
+++HomeController.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\controllers\homecontroller.cs
+++Home
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\home\
+++Shared
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\shared\
+++_ViewImports.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\appsettings.development.json
+++site.css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\css\site.css
+++site.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\js\site.js
+++bootstrap
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\
+++jquery
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\home\index.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\cliente\index.cshtml
+++Privacy.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\shared\error.cshtml
+++dist
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery\dist\
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery\license.txt
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Migrations
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\migrations\
+++20211228210146_FirstMigration.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\migrations\20211228210146_firstmigration.cs
+++ContextoModelSnapshot.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\migrations\contextomodelsnapshot.cs
+++20211228210146_FirstMigration.Designer.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\migrations\20211228210146_firstmigration.designer.cs
+++Scripts
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\migrations\scripts\
+++FirstMigration.SQL
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\migrations\scripts\firstmigration.sql
+++Banco de Dados do SQL Server
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>431
+++Foi detectada a dependência de Banco de Dados do SQL Server
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:>432
+++ClienteController.cs
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\controllers\clientecontroller.cs
+++NovaPasta
+++Cliente
+i:{8bb9df14-de0a-4956-a9d8-982e3a5abf21}:c:\users\thiago chaves\desktop\crudmvc\views\cliente\
